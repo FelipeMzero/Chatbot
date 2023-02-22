@@ -1,3 +1,7 @@
 Crie um Chatbot no Telegram com o https://t.me/BotFather
 Vá no site do Chat-GPT, faça login e solicite uma api: https://platform.openai.com/account/api-keys
 com a api e o token, acesse a pasta file, edite os arquivos e cole suas informaçoes
+instalação:
+termux-setup-storage
+cd /sdcarf
+git clone https://github.com/Sigma1990/Chatbot.git
